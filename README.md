@@ -1,5 +1,3 @@
-Sorry Brian no fun README this time =[ I need to polish my github and get ready for the job search.
-
 To install the database:
 1. Download the 'Pagila Database' folder, and extract the zip file.
 2. In your command line, change your directory to the folder.
